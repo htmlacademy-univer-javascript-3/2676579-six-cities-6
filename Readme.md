@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
-* Студент: [Yan Matveev](https://up.htmlacademy.ru/univer-js3/6/user/2676579).
-* Наставник: `Неизвестно`.
+- Студент: [Yan Matveev](https://up.htmlacademy.ru/univer-js3/6/user/2676579).
+- Наставник: `Schneider Polina Anatolevna`.
 
 ---
 
